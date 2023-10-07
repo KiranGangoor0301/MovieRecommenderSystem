@@ -29,7 +29,7 @@ pip install pandas numpy scikit-learn nltk
 3. **Run the Recommender System:**
 
    ```bash
-   python MovieRecommenderSystem.py
+   python MovieRecommenderSystem.ipynb
    ```
 
 4. **Input Your Preferences:**
